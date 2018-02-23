@@ -1,6 +1,7 @@
 # Weather-PWA
 A Simple Progressive Web App for Weather
 
+<img src="https://i.imgur.com/Ch68mr8.jpg"/>
 
 Steps for Running this App locally:
 
